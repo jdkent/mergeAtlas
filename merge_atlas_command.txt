@@ -1,0 +1,1 @@
+./merge_atlas.py -a Schaefer2018_400Parcels_17Networks_order_FSLMNI152_2mm.nii.gz Choi2012_17Networks_MNI152_FreeSurferConformed2mm_TightMask.nii.gz Buckner2011_17Networks_MNI152_FreeSurferConformed1mm_TightMask.nii.gz -r ../combined_atlas_3mm.nii.gz -t ../../schaefer_parcel-400_network-17.tsv -n SubCort Cerebellar
